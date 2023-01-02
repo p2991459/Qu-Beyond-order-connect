@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/uknomi_third_party_connectors-Qu_beyond_intg.iml" filepath="$PROJECT_DIR$/.idea/uknomi_third_party_connectors-Qu_beyond_intg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/qu_beyond_v1.iml" filepath="$PROJECT_DIR$/.idea/qu_beyond_v1.iml" />
     </modules>
   </component>
 </project>
